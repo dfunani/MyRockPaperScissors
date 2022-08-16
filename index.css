@@ -1,0 +1,25 @@
+img {
+	width: 100%;
+	height: 100%;
+}
+
+#game-body {
+	text-align: center;
+}
+
+
+#rock_ai,
+#paper_ai,
+#scissors_ai {
+	display: none;
+}
+
+#game-body {
+	background-color: rgb(235, 235, 235);
+}
+
+#container {
+	width: 75%;
+	padding-left: 300px;
+	padding-top: 15px;
+}
